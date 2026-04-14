@@ -1,0 +1,28 @@
+# Unreal Engine
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.vc.db
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Android build artifacts
+*.apk
+*.aab
+
+# Plugin build artifacts (keep Source)
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Compiled source files
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
